@@ -21,13 +21,13 @@ li{
 	background-color:gray;
 }
 li:nth-child(odd){
-	background:white;
+	background-color:white;
 }
 li:first-child,li:last-child{
 	font-size:22px;
 }
 li:nth-last-child(3){
-	background:pink;
+	background-color:pink;
 }
 
 
